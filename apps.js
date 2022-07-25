@@ -1,3 +1,19 @@
+/**
+ * Observaciones:
+
+1. Los Campos no aceptan números decimales
+2. No se valida que los campos no estén vacíos
+3. Se realiza mal el cálculo de la definitiva (mal uso de la jerarquía de operaciones)
+4. No hay validaciones de color ni de redondeo de nota a partir del decimal .95
+5. Bien en el tema de impresión de la tabla
+6. Bien la creación del formulario
+7. Bien el uso de Bootstrap
+8. Hacer más uso de las funciones o métodos
+
+
+Progreso: 60% ----> Aplicar correcciones debidas
+ */
+
 //Dom
 let materias = [];
 
